@@ -51,18 +51,17 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60">
 </div>
 
 ## My Stats
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msuryaditriputraR&show_icons=true&locale=en&layout=compact" alt="msuryaditriputraR" /></div>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=msuryaditriputraR&show_icons=true&rank_icon=percentile" alt="Github Stats">
+</div>
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=msuryaditriputraR&show_icons=true&locale=en" alt="msuryaditriputraR" /></div>
-
-<br>
-
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msuryaditriputraR" alt="msuryaditriputraR" /></div>
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=msuryaditriputraR&layout=donut-vertical&size_weight=0.5&count_weight=0.5&hide=c%23" alt="Most Used Languages">
+</div>
 
 <br>
 
