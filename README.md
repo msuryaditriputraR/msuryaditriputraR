@@ -69,6 +69,8 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 
 <div>
 <p><b>Back End<b></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40">
+&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40">
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40">
@@ -91,6 +93,11 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 <div>
 <p><b>Full Stack Framework<b></p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40">
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40">
+</div>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40">
 </div>
 
 <br>
