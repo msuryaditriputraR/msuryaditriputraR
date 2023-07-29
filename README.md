@@ -64,3 +64,8 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msuryaditriputraR" alt="msuryaditriputraR" /></div>
 
+<br>
+
+Feel free to connect and collaborate 😁. I'm glad to connect with new friends 🌹
+
+Happy Coding ☕
