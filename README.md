@@ -4,7 +4,7 @@
 </h1>
 
 <div align=center>
-    <img src="https://komarev.com/ghpvc/?username=msuryaditriputraR&color=blue&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=msuryaditriputraR&color=blue&style=flat&label=My+Stalker">
     <a href="https://www.linkedin.com/in/msuryaditriputra/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" />
     </a>
