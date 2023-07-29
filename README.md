@@ -59,5 +59,7 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=msuryaditriputraR&show_icons=true&locale=en" alt="msuryaditriputraR" /></div>
 
+<br>
+
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msuryaditriputraR" alt="msuryaditriputraR" /></div>
 
