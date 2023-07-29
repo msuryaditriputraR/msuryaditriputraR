@@ -16,7 +16,7 @@
     </a>
 </div>
 <div align=center>
-  <a href="https://drive.google.com/drive/u/0/folders/1tSQzFx4g_sdb9V1PlG8iVkpIMLWD7Nbt" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1bJR_ZpG0DWGMatfR9E55jOggddanVlj1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/See-My_CV-green?style=flat" alt="See My CV" />
     </a>
 </div>
