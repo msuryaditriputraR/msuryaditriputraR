@@ -43,9 +43,13 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60">
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40">
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40">
 </div>
 
 <br>
+
+**Front End**
 
 <div>
 <p><b>CSS Tools<b></p>
@@ -59,7 +63,7 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 <br>
 
 <div>
-<p><b>Front End<b></p>
+<p><b>Javascript Library<b></p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40">
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60">
@@ -69,8 +73,6 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 
 <div>
 <p><b>Back End<b></p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40">
-&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40">
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40">
