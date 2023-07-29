@@ -14,6 +14,9 @@
     <a href="https://www.instagram.com/msuryaditriputra" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-f70762?style=flat&logo=instagram&logoColor=white" alt="Instragram" />
     </a>
+    <a href="https://www.upwork.com/freelancers/~0192692f81a3979f0c" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Upwork-00ff00?style=flat&logo=upwork&logoColor=white" alt="Upwork" />
+    </a>
 </div>
 <div align=center>
   <a href="https://drive.google.com/file/d/1bJR_ZpG0DWGMatfR9E55jOggddanVlj1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
