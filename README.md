@@ -56,12 +56,19 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 ## My Stats
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=msuryaditriputraR&show_icons=true&rank_icon=percentile" alt="Github Stats" align=left>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=msuryaditriputraR&layout=donut-vertical&size_weight=0.5&count_weight=0.5&hide=c%23" alt="Most Used Languages" align=left>
 </div>
 
 <div>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=msuryaditriputraR&layout=donut-vertical&size_weight=0.5&count_weight=0.5&hide=c%23" alt="Most Used Languages" align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=msuryaditriputraR&show_icons=true&rank_icon=percentile" alt="Github Stats" align=center>
+</div>
+
+<br>
+
+<div>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=msuryaditriputraR&card_width=465" alt="Github Streak" align=center>
 </div>
 
 <br>
