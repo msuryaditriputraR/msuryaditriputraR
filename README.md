@@ -95,7 +95,6 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40">
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40">
-</div>
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40">
 </div>
