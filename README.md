@@ -28,7 +28,8 @@
 
 Programmer who Coding | Writer likes Reading | Speaker loves Listening | Freelancer who Free 😊
 
-I am passionate make UI design a reality with web technologies, I am happy to give back knowledge and experience to the community. 🙌
+I am passionate about building a useful full-stack web app with modern technology which beautiful, responsive, interactive, and clean.
+I am happy to give back knowledge and experience to the community. 🙌
 
 In my free time, I like to play Front-End challenges in [frontendmentor](https://www.frontendmentor.io/) and also I like to solve problems about algorithms in many platforms such as [hackerrank](https://www.hackerrank.com/), [codewars](https://www.codewars.com/), and [leetcode](https://leetcode.com/). 🔥
 
