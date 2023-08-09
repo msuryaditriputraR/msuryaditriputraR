@@ -131,6 +131,8 @@ PS: The Bigger Icon is My Top Technical Skill
 <img src="https://streak-stats.demolab.com/?user=msuryaditriputraR&card_width=465" alt="Github Streak" align=center>
 </div>
 
+![Github Streak](https://streak-stats.demolab.com/?user=msuryaditriputraR&card_width=465)
+
 <br>
 
 Feel free to connect and collaborate 😁. I'm glad to connect with new friends 🌹
