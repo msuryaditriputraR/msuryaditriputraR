@@ -128,7 +128,7 @@ PS: The Bigger Icon is My Top Technical Skill
 
 <div>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=msuryaditriputraR&card_width=465" alt="Github Streak" align=center>
+<img src="https://streak-stats.demolab.com?user=msuryaditriputraR&card_width=465" alt="Github Streak" align=center>
 </div>
 
 <br>
