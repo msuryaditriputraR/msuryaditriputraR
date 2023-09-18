@@ -137,6 +137,10 @@ PS: The Bigger Icon is My Top Technical Skill
 
 <br>
 
+![](https://raw.githubusercontent.com/msuryaditriputraR/msuryaditriputraR/main/assets/github-contribution-grid-snake.svg)
+
+<br>
+
 Feel free to connect and collaborate 😁. I'm glad to connect with new friends 🌹
 
 Happy Coding ☕
