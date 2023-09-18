@@ -133,6 +133,10 @@ PS: The Bigger Icon is My Top Technical Skill
 
 <br>
 
+![WAKATIME](https://github-readme-stats.vercel.app/api/wakatime?username=danbo&layout=compact)
+
+<br>
+
 Feel free to connect and collaborate 😁. I'm glad to connect with new friends 🌹
 
 Happy Coding ☕
