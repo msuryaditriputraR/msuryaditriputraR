@@ -130,6 +130,14 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 <br>
 
 <div>
+<p><b>Multi Platform<b></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt="flutter" width="40">
+&nbsp;
+</div>
+
+<br>
+
+<div>
 <p><b>Design<b></p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40">
 &nbsp;
