@@ -102,7 +102,7 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 
 <div>
 <p><b>Database | ORM | API<b></p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="60">
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40">
 &nbsp;
