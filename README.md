@@ -61,6 +61,8 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="boostrap" width="40">
 &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="bulma" width="40">
+&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="60">
 </div>
 
