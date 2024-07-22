@@ -116,6 +116,8 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 <div>
 <p><b>Other<b></p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40">
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="babel" width="40">
 </div>
 
 <br>
