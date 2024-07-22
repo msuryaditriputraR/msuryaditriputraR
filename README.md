@@ -71,8 +71,8 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40">
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60">
-</div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="alpinejs" width="60">
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="alpinejs" width="40">
 </div>
 
 <br>
