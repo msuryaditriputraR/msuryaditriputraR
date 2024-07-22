@@ -112,6 +112,8 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40">
 &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40">
+&nbsp;
 </div>
 
 <br>
