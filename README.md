@@ -165,7 +165,7 @@ PS: The Bigger Icon is My Top Technical Skill
 ## My Stats
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=msuryaditriputraR&layout=donut-vertical&size_weight=0.5&count_weight=0.5&hide=c%23" alt="Most Used Languages" align=left>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=msuryaditriputraR&layout=donut-vertical&size_weight=0.5&count_weight=0.5" alt="Most Used Languages" align=left>
 </div>
 
 <div>
