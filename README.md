@@ -130,6 +130,15 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 <br>
 
 <div>
+<p><b>Design<b></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40">
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40">
+</div>
+
+<br>
+
+<div>
 <p><b>Other<b></p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60">
 &nbsp;
@@ -139,7 +148,6 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40">
 </div>
 
 <br>
