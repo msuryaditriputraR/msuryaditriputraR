@@ -131,6 +131,8 @@ In my free time, I like to play Front-End challenges in [frontendmentor](https:/
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40">
 &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40">
+&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40">
 </div>
 
