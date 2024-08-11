@@ -25,6 +25,9 @@
   <a href="https://drive.google.com/file/d/1bJR_ZpG0DWGMatfR9E55jOggddanVlj1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/See-My_CV-green?style=flat" alt="See My CV" />
     </a>
+  <a href="https://saweria.co/danbodev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Support%20Me-yellow?style=flat" alt="See My CV" />
+    </a>
 </div>
 
 ## About Me
