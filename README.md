@@ -185,10 +185,11 @@ PS: The Bigger Icon is My Top Technical Skill
 
 <br>
 
-![WAKATIME](https://github-readme-stats.vercel.app/api/wakatime?username=danbo&layout=compact)
+<div>
+  &nbsp;
+  <img src="https://wakatime.com/share/@danbo/4044d5c2-79b9-4ffa-b50b-6e1f8b127ce4.svg" alt="Coding Time" width="650">
+</div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/msuryaditriputraR/msuryaditriputraR/main/assets/github-contribution-grid-snake.svg)
 
