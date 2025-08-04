@@ -176,18 +176,11 @@ PS: The Bigger Icon is My Top Technical Skill
 <img src="https://github-readme-stats.vercel.app/api?username=msuryaditriputraR&show_icons=true&rank_icon=percentile" alt="Github Stats" align=center>
 </div>
 
-<br>
-
-<div>
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=msuryaditriputraR&card_width=465" alt="Github Streak" align=center>
-</div>
-
-<br>
+<br><br><br><br><br><br>
 
 <div>
   &nbsp;
-  <img src="https://wakatime.com/share/@danbo/4044d5c2-79b9-4ffa-b50b-6e1f8b127ce4.svg" alt="Coding Time" width="650">
+  <img src="https://wakatime.com/share/@danbo/4044d5c2-79b9-4ffa-b50b-6e1f8b127ce4.svg" alt="Coding Time" width="800">
 </div>
 
 
